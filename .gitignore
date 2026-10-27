@@ -13,3 +13,6 @@ desktop.ini
 
 # The assignment brief, kept out of the public repository
 etf_webapp_prompt.md
+
+# pytest
+.pytest_cache/

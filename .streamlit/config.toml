@@ -1,0 +1,13 @@
+# This file only chooses colours. It is not Python, and the app runs without it.
+[theme]
+# use the dark set of colours, so the text is light on the dark glass
+base = "dark"
+# The colour of the fund labels in the sidebar. Streamlit always writes WHITE letters on this colour,
+# so it must stay a dark grey. If you make it white, the labels become white on white and you cannot read them.
+primaryColor = "#4f4f4f"
+# the colour behind everything, which the CSS in app.py then covers with its glass
+backgroundColor = "#000000"
+# the colour of the tables, the input boxes and the drop down list
+secondaryBackgroundColor = "#161616"
+# the colour of the normal text
+textColor = "#f2f2f2"

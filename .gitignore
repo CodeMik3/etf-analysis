@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit secrets (never put passwords or keys in GitHub)
+.streamlit/secrets.toml
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# The assignment brief, kept out of the public repository
+etf_webapp_prompt.md
